@@ -28,7 +28,7 @@ function searchResults(songTitle, songAlbum, songArtist){
         <button class="btn btn-success" onclick="getLyrics('${songTitle}', '${songArtist}')">Get Lyrics</button>
     </div>
     </div>`
-    }
+}
 
             // Lyrics Result Function
 
